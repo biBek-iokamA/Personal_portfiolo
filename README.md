@@ -22,34 +22,6 @@ This project is built with:
 * Tailwind CSS
 * shadcn/ui
 
-## 💻 Run the Project Locally
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/biBek-iokamA/Personal_portfiolo.git
-```
-
-### 2. Navigate to the project directory
-
-```bash
-cd Personal_portfiolo
-```
-
-### 3. Install dependencies
-
-```bash
-npm install
-```
-
-### 4. Start the development server
-
-```bash
-npm run dev
-```
-
-The development server will start locally, and you can open the provided local URL in your browser.
-
 ## 📁 Project Structure
 
 ```text
